@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { FarcasterReady } from '@/components/FarcasterReady';
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://minotaurus.vercel.app';
+const APP_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://minotaurus-iota.vercel.app';
 
 const FC_EMBED = {
   version: '1' as const,

@@ -7,22 +7,22 @@
   "miniapp": {
     "version": "1",
     "name": "Minotaurus",
-    "homeUrl": "https://minotaurus.vercel.app/",
-    "iconUrl": "https://minotaurus.vercel.app/icon.png",
-    "imageUrl": "https://minotaurus.vercel.app/hero-image.png",
+    "homeUrl": "https://minotaurus-iota.vercel.app/",
+    "iconUrl": "https://minotaurus-iota.vercel.app/icon.png",
+    "imageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
     "buttonTitle": "Play Now",
-    "splashImageUrl": "https://minotaurus.vercel.app/hero-image.png",
+    "splashImageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
     "splashBackgroundColor": "#0a0e1a",
-    "webhookUrl": "https://minotaurus.vercel.app/api/webhook",
+    "webhookUrl": "https://minotaurus-iota.vercel.app/api/webhook",
     "subtitle": "Cyberpunk Maze Chase",
     "description": "Navigate heroes through a neon labyrinth while avoiding the fearsome Minotaur. Strategic maze game for Base & Farcaster.",
     "screenshotUrls": [
-      "https://minotaurus.vercel.app/hero-image.png",
-      "https://minotaurus.vercel.app/hero-image.png"
+      "https://minotaurus-iota.vercel.app/hero-image.png",
+      "https://minotaurus-iota.vercel.app/hero-image.png"
     ],
     "primaryCategory": "games",
     "tags": ["maze", "strategy", "cyberpunk", "minotaur"],
-    "heroImageUrl": "https://minotaurus.vercel.app/hero-image.png",
+    "heroImageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
     "requiredChains": ["eip155:8453"]
   }
 }

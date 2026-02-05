@@ -13,9 +13,9 @@ npm run dev
 
 1. Пуш проєкту в GitHub і підключіть репо до Vercel.
 2. Додайте змінні оточення:
-   - `NEXT_PUBLIC_APP_URL` = `https://ваш-домен.vercel.app`
+   - `NEXT_PUBLIC_APP_URL` = `https://minotaurus-iota.vercel.app`
    - `NEXT_PUBLIC_BASE_APP_ID` = app_id з https://base.dev (після створення Mini App)
-3. Після деплою оновіть у `public/.well-known/farcaster.json` всі URL на ваш домен.
+3. У `public/.well-known/farcaster.json` вже вказано `https://minotaurus-iota.vercel.app`.
 4. Згенеруйте **accountAssociation** через https://farcaster.xyz/~/developers/mini-apps/manifest і вставте в `farcaster.json` замість placeholder.
 5. Перевірте embed: https://farcaster.xyz/~/developers/mini-apps/embed
 
