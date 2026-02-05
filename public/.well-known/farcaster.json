@@ -7,7 +7,7 @@
   "miniapp": {
     "version": "1",
     "name": "Minotaurus",
-    "tagline": "Escape the Minotaur. Maze game.",
+    "tagline": "Escape the Minotaur. Maze game",
     "ogTitle": "Minotaurus - Cyberpunk Maze",
     "ogDescription": "Navigate the neon labyrinth and escape the Minotaur. Maze game for Base & Farcaster.",
     "ogImageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
