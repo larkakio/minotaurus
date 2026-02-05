@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     'apple-mobile-web-app-capable': 'yes',
     'fc:miniapp': JSON.stringify(FC_EMBED),
     'fc:frame': JSON.stringify(FC_EMBED),
-    'base:app_id': process.env.NEXT_PUBLIC_BASE_APP_ID || '',
+    'base:app_id': process.env.NEXT_PUBLIC_BASE_APP_ID || '698455687a0334031d1344ea',
   },
   openGraph: {
     title: 'Minotaurus',
@@ -48,6 +48,7 @@ export default function RootLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <meta name="theme-color" content="#0a0e1a" />
+        <meta name="base:app_id" content="698455687a0334031d1344ea" />
       </head>
       <body className="min-h-screen bg-[#0a0e1a] text-white antialiased">
         <FarcasterReady />
