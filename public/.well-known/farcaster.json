@@ -7,6 +7,11 @@
   "miniapp": {
     "version": "1",
     "name": "Minotaurus",
+    "tagline": "Escape the Minotaur. Maze game.",
+    "ogTitle": "Minotaurus - Cyberpunk Maze",
+    "ogDescription": "Navigate the neon labyrinth and escape the Minotaur. Maze game for Base & Farcaster.",
+    "ogImageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
+    "noindex": false,
     "homeUrl": "https://minotaurus-iota.vercel.app/",
     "iconUrl": "https://minotaurus-iota.vercel.app/icon.png",
     "imageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
@@ -21,8 +26,15 @@
       "https://minotaurus-iota.vercel.app/hero-image.png"
     ],
     "primaryCategory": "games",
-    "tags": ["maze", "strategy", "cyberpunk", "minotaur"],
+    "tags": [
+      "maze",
+      "strategy",
+      "cyberpunk",
+      "minotaur"
+    ],
     "heroImageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
-    "requiredChains": ["eip155:8453"]
+    "requiredChains": [
+      "eip155:8453"
+    ]
   }
 }
