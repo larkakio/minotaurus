@@ -9,7 +9,7 @@
     "name": "Minotaurus",
     "tagline": "Escape the Minotaur. Maze game",
     "ogTitle": "Minotaurus - Cyberpunk Maze",
-    "ogDescription": "Navigate the neon labyrinth and escape the Minotaur. Maze game for Base & Farcaster.",
+    "ogDescription": "Navigate the neon labyrinth and escape the Minotaur. Maze game for Base and Farcaster.",
     "ogImageUrl": "https://minotaurus-iota.vercel.app/hero-image.png",
     "noindex": false,
     "homeUrl": "https://minotaurus-iota.vercel.app/",
@@ -20,7 +20,7 @@
     "splashBackgroundColor": "#0a0e1a",
     "webhookUrl": "https://minotaurus-iota.vercel.app/api/webhook",
     "subtitle": "Cyberpunk Maze Chase",
-    "description": "Navigate heroes through a neon labyrinth while avoiding the fearsome Minotaur. Strategic maze game for Base & Farcaster.",
+    "description": "Navigate heroes through a neon labyrinth while avoiding the fearsome Minotaur. Strategic maze game for Base and Farcaster.",
     "screenshotUrls": [
       "https://minotaurus-iota.vercel.app/hero-image.png",
       "https://minotaurus-iota.vercel.app/hero-image.png"
