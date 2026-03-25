@@ -1,14 +1,6 @@
-'use client';
+"use client";
 
-import { useEffect } from 'react';
-
+/** Base App standard web — no Farcaster SDK ready() required. */
 export function FarcasterReady() {
-  useEffect(() => {
-    import('@farcaster/miniapp-sdk')
-      .then(({ sdk }) => {
-        sdk.actions.ready().catch(() => {});
-      })
-      .catch(() => {});
-  }, []);
   return null;
 }
